@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Dmitry Kostyaev
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      'ML Research Engineer'
 url:              https://dmkostyaev.github.io
 baseurl:          ''
@@ -30,7 +30,14 @@ plugins:
 
 # Sidebar link settings
 sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
-                                # page. If you change your paginate_path,
-                                # set this to the root of the paginate_path
-                                # to enable a separate blog link.
+
+google_analytics: UA-47889318-2
+
+disqus:
+  shortname: my-disqus-shortname
+
+rss: false
+github: kostyaev
+twitter: virtuozz0
+twitter: virtuozz0
+linkedin: https://www.linkedin.com/in/dmitry-kostyaev-20695573
