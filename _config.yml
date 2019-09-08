@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Dmitry Kostyaev
 tagline:          ''
-description:      'ML Research Engineer'
+description:      'Machine Learning Research Engineer'
 url:              https://dmkostyaev.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,13 +15,7 @@ baseurl:          ''
                   # sidebar_blog_link below.
 profile_img:      /assets/small_avatar.png
 
-author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
-
 paginate:         5
-# paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
   - jekyll-feed
@@ -34,7 +28,7 @@ sidebar_home_link:  true
 google_analytics: UA-47889318-2
 
 disqus:
-  shortname: my-disqus-shortname
+  shortname: kostyaev
 
 rss: false
 github: kostyaev
